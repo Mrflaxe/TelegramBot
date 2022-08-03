@@ -1,0 +1,14 @@
+database:
+  host: 127.0.0.1
+  port: 3306
+  name: telegrambotdb
+  user: root
+  password: Pot6eujH
+
+bot-token: "5493812068:AAGnlkyCYUhP8TnPWe7g6otKgNd4KREfnPs"
+
+# user cooldown for sending messages 
+send-cooldown: 1
+
+# cooldown for sending quest messages
+message-cooldown: 3
